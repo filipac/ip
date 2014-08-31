@@ -14,5 +14,5 @@ Add this to **composer.json**
 ```json
 "require": {
         "filipac/ip": "~1.0"
-    },
+    }
 ```
